@@ -22,4 +22,6 @@ function setup() {
   //    let palavra = "luiz";
   //    text(palavra, 200, 200);
   //  }
+  }
+  //  }
   
